@@ -4,9 +4,10 @@ Script collecting your recently played songs
 
 ## Installation
 
-Make sure you have ```python-venv``` package installed
+
 
 ###### Linux
+Make sure you have ```python-venv``` package installed (```pip install python-venv```)
 
 ```
 chmod +x install.sh
