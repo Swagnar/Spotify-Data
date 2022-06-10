@@ -4,9 +4,8 @@ Script collecting your recently played songs
 
 ## Installation
 
+- **Linux**
 
-
-###### Linux
 Make sure you have ```python-venv``` package installed (```pip install python-venv```)
 
 ```
@@ -14,11 +13,15 @@ chmod +x install.sh
 ./install.sh
 ```
 
-###### Windows
+- **Windows**
+
 
 ```
 pip install -r requirements.txt
 ```
+
+
+## Configuration
 
 In the main folder create file called ```.env``` and fill it with necessary data as follows:
 
